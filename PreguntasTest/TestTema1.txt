@@ -6,6 +6,7 @@ Preguntas tipo test Tema 1
 	c) La disponibilidad del sistema es el mayor de los problemas que se pueden dar.
 	d) La carga del sistema es el mayor de los problemas que se pueden dar.
 	Respuesta correcta: b
+	
 2. La mejor opción para hacer un servidor web que de servicios a millones de usuarios será:
         a) Montar una granja Web
         b) Montar un servidor en una maquina
