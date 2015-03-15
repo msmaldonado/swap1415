@@ -1,0 +1,15 @@
+Preguntas tipo test  Tema 3
+
+1. ¿Cuál sería la configuración ideal para una granja Web?
+        a) Configuración de DMZ doble
+        b) Configuración de DMZ Tradicional 
+        c) Configuración de DMZ Simple
+        d) Configuración de DMZ doble y configuración de DMZ Simple 
+        Respuesta correcta: a
+        
+2. La doble conexion al fron-rail y back-rail :
+        a) Requiere una sola tarjeta de red
+        b) Requiere una sola tarjeta de red y los servicios ofrecidos quedan aislados
+        c) Adecuado para acceder a Internet y servidores internos
+        d) Válido para servidores  que no necesitan acceso a Internet
+        Respuesta correcta: c
