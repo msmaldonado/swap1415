@@ -1,4 +1,4 @@
-**Práctica 2** 
+## *Práctica 2* 
 - Realizado por : 
    + Juan Antonio Velasco Gómez 
    + Miguel Sánchez Maldonado
