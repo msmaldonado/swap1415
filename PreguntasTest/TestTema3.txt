@@ -13,3 +13,10 @@ Preguntas tipo test  Tema 3
         c) Adecuado para acceder a Internet y servidores internos
         d) Válido para servidores  que no necesitan acceso a Internet
         Respuesta correcta: c
+
+3. La conexion a internet de una granja web depende de los factores:
+        a) Ancho de banda
+        b) Calidad del servicio y ancho de banda,filtrado y bloqueo de paquetes, y NAT
+        c) Cortafuegos, router y NAT
+        d) Hardware, Software y NAT 
+        Respuesta correcta : B
