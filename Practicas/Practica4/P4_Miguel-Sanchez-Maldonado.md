@@ -55,7 +55,7 @@ Opcion | Resultado
     /siege -t60S -v URL | Un segundo de pausa entre las diferentes peticione 
     -t60S | Para indicar el tiempo exacto de ejecucion en este caso 60 segundo 
 
-| Cabecera A | Cabecera B |
+| Opciones | Resultado |
 | ---------- | ---------- |
 | Campo A0   | Campo B0   |
 | Campo A1   | Campo B1   |
