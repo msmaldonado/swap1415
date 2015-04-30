@@ -57,7 +57,7 @@ Opcion | Resultado
 
 | Opciones | Resultado |
 | ---------- | ---------- |
-| Campo A0   | Campo B0   |
+| /siege -b -t60S -v URL   | Ejecutamos los test sin pausas y comprobamos rendimiento general   |
 | Campo A1   | Campo B1   |
      
 ![Captura 2](images/)
