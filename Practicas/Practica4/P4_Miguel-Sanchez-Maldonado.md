@@ -5,7 +5,7 @@
 	+ Juan Antonio Velasco Gómez
 	+ Miguel Sánchez Maldonado
 
-    
+----------------------
     
 Nuestro objetivo será analizar el rendimiento de servidores, es decir de nuestra granja web, pero usaremos
 programas de línea de comandos que sobrecarguen lo menos posible las máqunas que estamos usando.
