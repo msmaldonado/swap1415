@@ -49,11 +49,11 @@ Y ahora veamos el rendimiento:
 
 Una utilidad mediente linea de comando , una de las diferencias Siege con Benchmark será que podemos realizar test aa URLs diferentes.
 
-    Opcion|Resultado 
-    --|-- 
-    /siege -b -t60S -v URL|Ejecutamos los test sin pausas y comprobamos rendimiento general 
-    /siege -t60S -v URL|Un segundo de pausa entre las diferentes peticione 
-    -t60S|Para indicar el tiempo exacto de ejecucion en este caso 60 segundo 
+    Opcion | Resultado 
+    -- | -- 
+    /siege -b -t60S -v URL | Ejecutamos los test sin pausas y comprobamos rendimiento general 
+    /siege -t60S -v URL | Un segundo de pausa entre las diferentes peticione 
+    -t60S | Para indicar el tiempo exacto de ejecucion en este caso 60 segundo 
      
 ![Captura 2](images/)
 
