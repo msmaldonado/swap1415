@@ -1,0 +1,15 @@
+Preguntas tipo test Tema 4
+
+1. ¿Qué significa el concepto Virtual IP(VIP)?
+	a) Siempre es la IP del balanceador de carga
+	b) Dispositivo que ejecuta un servicio
+	c) Direccion pública a la que acceden los usuarios cuando piden un servicio al sistema
+	d) Es lo mismo que hablar de VRRP(Virtual Router Redundancy Protocol).
+	Respuesta correcta: c
+	
+2. ¿Qué es un cluster o grupo?
+        a) Dispositivo que ejecuta un servicio
+        b) Es un puente entre la red y los servidores finales 
+        c) Será estructurar varios cortafuegos de forma balanceada
+        d) Conjunto de servidores con un balanceador al frente para repartir la carga(granja web)
+        Respuesta correcta: d
