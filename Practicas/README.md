@@ -11,6 +11,6 @@
 - Práctica 4
     + 
 - Práctica 5
-    + Replicación de bases de datos 
+    + *Replicación de bases de datos* 
 - Práctica 6
-    + Discos en RAID
+    + *Discos en RAID*
