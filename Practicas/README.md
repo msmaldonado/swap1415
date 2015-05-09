@@ -8,3 +8,9 @@
     + *Replicar datos entre servidores*
 - Práctica 3 
     + *Balanceo de carga*
+- Práctica 4
+    + 
+- Práctica 5
+    + Replicación de bases de datos 
+- Práctica 6
+    + Discos en RAID
