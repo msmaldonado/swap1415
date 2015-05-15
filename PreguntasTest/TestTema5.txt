@@ -1,0 +1,15 @@
+Preguntas tipo test Tema 5
+
+1. ¿Cuales son los posibles problemas que se pueden dar en un sitio web mal planteado?
+	a) Un número pequeño de usuarios.
+	b) Problemas con la arquitectura del sistema, la disponibilidad y la carga del sistema.
+	c) La disponibilidad del sistema es el mayor de los problemas que se pueden dar.
+	d) La carga del sistema es el mayor de los problemas que se pueden dar.
+	Respuesta correcta: b
+	
+2. La mejor opción para hacer un servidor web que de servicios a millones de usuarios será:
+        a) Montar una granja Web
+        b) Montar un servidor en una maquina
+        c) Adquirir un segundo servidor para desarrollo
+        d) Da igual como desarrollamos el servidor
+        Respuesta correcta: a
