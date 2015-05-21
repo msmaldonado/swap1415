@@ -4,6 +4,7 @@ Servidores Web de Altas Prestaciones
 ## Contenido las entregas de la asignatura
 
 - **Practicas**
+
     + Práctica 1
     + Práctica 2
     + Práctica 3
@@ -12,6 +13,7 @@ Servidores Web de Altas Prestaciones
     + Práctica 6
     
 - **Preguntas Test de cada Tema**
+
     * Tema 1
     * Tema 2
     * Tema 3
