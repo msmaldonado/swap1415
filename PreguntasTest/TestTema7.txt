@@ -1,0 +1,15 @@
+Preguntas tipo test Tema 7
+
+1. ¿Qué es el RAID?
+	a) Sitema de almacenamineto que usa múltiples discos duros entre los que sólo  se distribuyen los datos.
+	b) Sistema de arranque 
+	c) Sitema de almacenamineto que usa múltiples discos duros entre los que se distribuyen o replican los datos.
+	d) Sistema que sólo almacena un sistema operativo
+	Respuesta correcta: c
+	
+2. ¿Qué significa SAN?
+        a) Red de almacenamiento especializada que conecta dispositivos de almacenamiento  a los servidores .
+        b) Forma simple de almacenamiento externo
+        c) Dispositivo que actúa como un servidor de ficheros,pero ahorrando los recursos de tener una máquina más.
+        d) Eliminar servicios no necesarios.
+        Respuesta correcta: a
