@@ -1,4 +1,4 @@
-Preguntas tipo test Tema 1
+Preguntas tipo test *Tema 1*
 
 1. ¿Cuales son los posibles problemas que se pueden dar en un sitio web mal planteado?
 	a) Un número pequeño de usuarios.
