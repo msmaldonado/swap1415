@@ -1,13 +1,13 @@
 Preguntas tipo test Tema 6
 
-1. ¿Qué tipo de seguridad no se corresponde a nivel físico
+1. ¿Qué tipo de seguridad no se corresponde a nivel físico?
 	a) Organizar los administradores por aplicación.
 	b) Ubicación de los servidores y elementos críticos de red
 	c) Seguridad general de hardware.
 	d) Contraseñas de BIOS y de consola
 	Respuesta correcta: a
 	
-2. ¿Qué tarea no realiza un cortafuegos
+2. ¿Qué tarea no realiza un cortafuegos?
         a) Bloquear y filtrar paquetes.
         b) Control del tráfico de red a nivel de protocolo de red 
         c) Ocultar la verdadera dirección del servidor.
