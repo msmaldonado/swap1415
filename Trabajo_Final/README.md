@@ -5,3 +5,8 @@ Servidores Web de Altas Prestaciones
 ## Trabajo Final
 
 ### High Availability, Load Balancing y Replication con PostgreSQL
+
+    + Comandos
+    + Enlaces
+    + Resumen
+    + Documento del Trabajo
