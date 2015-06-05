@@ -1,0 +1,9 @@
+Preguntas tipo test Tema 8
+
+1. Los sitios web siguen la regla
+	a) 90-10, el 90% del trafico corresponde al 10% de las páginas almacenadas.
+	b) 90-20, el 90% del trafico corresponde al 20% de las páginas almacenadas.
+	c) 80-20, el 80% del trafico corresponde al 20% de las páginas almacenadas.
+	d) Ninguna de las anteriores es correcta
+	Respuesta correcta: c
+	
