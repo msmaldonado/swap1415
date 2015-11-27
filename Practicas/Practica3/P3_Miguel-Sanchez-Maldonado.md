@@ -85,12 +85,12 @@ Para instalar haproxy únicamente tenemos que escribir
 ------------------
 
 Modificamos el fichero */etc/haproxy/haproxy.cfg* puesto que la configuración inicial no nos vale.  
-
+ ```	
 	cd /etc/
 	cd haproxy/
 	ifconfig
 	sudo joe haproxy.cfg 
-
+```
 Y a continuación lo editamos escribiendo: 
 
 	global
